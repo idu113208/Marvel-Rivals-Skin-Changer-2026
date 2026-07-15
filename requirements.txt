@@ -1,0 +1,5 @@
+pymem
+cryptography
+pywin32
+opencv-python
+mouse
